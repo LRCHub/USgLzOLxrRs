@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Dark Sun...",
+  "base_artist": "Lyn",
+  "createdAt": "2026-03-03T09:11:14.855243Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beyond the Dark Sun",
+      "artist": "Wintersun",
+      "has_synced": true,
+      "path": "select/01_Beyond_the_Dark_Sun_Wintersun.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dark Sun...",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/02_Dark_Sun..._Lyn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dark Sun",
+      "artist": "Dayseeker",
+      "has_synced": true,
+      "path": "select/03_Dark_Sun_Dayseeker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beyond the Dark Sun (demo version)",
+      "artist": "Wintersun",
+      "has_synced": true,
+      "path": "select/04_Beyond_the_Dark_Sun_(demo_version)_Wintersun.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beyond The Dark Sun [demo]",
+      "artist": "Wintersun",
+      "has_synced": true,
+      "path": "select/05_Beyond_The_Dark_Sun_[demo]_Wintersun.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dark Sun",
+      "artist": "Swanky Tunes feat. Rompasso",
+      "has_synced": false,
+      "path": "select/06_Dark_Sun_Swanky_Tunes_feat._Rompasso.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dark Sun",
+      "artist": "Swanky Tunes & Rompasso",
+      "has_synced": false,
+      "path": "select/07_Dark_Sun_Swanky_Tunes_&_Rompasso.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dark Sun",
+      "artist": "KELTEK",
+      "has_synced": false,
+      "path": "select/08_Dark_Sun_KELTEK.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beyond the Dark Sun",
+      "artist": "Wintersun",
+      "has_synced": true,
+      "path": "select/09_Beyond_the_Dark_Sun_Wintersun.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dark Sun",
+      "artist": "Asadov",
+      "has_synced": false,
+      "path": "select/10_Dark_Sun_Asadov.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dark Sun",
+      "artist": "KELTEK",
+      "has_synced": true,
+      "path": "select/11_Dark_Sun_KELTEK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dark Sun...",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/pl_01_Dark_Sun..._Lyn.txt"
+    }
+  ]
+}
